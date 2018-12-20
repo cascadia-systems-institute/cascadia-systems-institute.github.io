@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cascadia Systems Institute</title>
+    <link>https://cascadia-systems.institute/</link>
+    <description>Recent content on Cascadia Systems Institute</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Dec 2018 20:31:48 -0800</lastBuildDate>
+    
+	<atom:link href="https://cascadia-systems.institute/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>https://cascadia-systems.institute/contact/</link>
+      <pubDate>Wed, 19 Dec 2018 20:31:48 -0800</pubDate>
+      
+      <guid>https://cascadia-systems.institute/contact/</guid>
+      <description>Contact This is where a contact form might go&amp;hellip; otherwise email us@cascadia-systems.institute</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://cascadia-systems.institute/projects/</link>
+      <pubDate>Wed, 19 Dec 2018 18:45:48 -0800</pubDate>
+      
+      <guid>https://cascadia-systems.institute/projects/</guid>
+      <description>Projects Media and Information Spreading propaganda about the awesomeness of systems thinking and systems science.
+Leadership Training Training leaders of communities in how to think about systems.
+Regenerative Communities Building communities which are sustainable and anti-fragile.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://cascadia-systems.institute/about/</link>
+      <pubDate>Wed, 19 Dec 2018 17:51:03 -0800</pubDate>
+      
+      <guid>https://cascadia-systems.institute/about/</guid>
+      <description>Cascadia Systems Institute The Cascadia Systems Institute is an academic research organization which seeks to make practical improvements to the systems which make up our current civilization.
+Vision Statement We have a vision of a civilization where systems are put in place which sustainably cares for all while allowing innovation to continue.
+Mission Statement We have a mission to build a bioregional community which is centered on systems science and systems thinking.</description>
+    </item>
+    
+  </channel>
+</rss>
