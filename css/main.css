@@ -2,6 +2,8 @@ html, body {
     height: 100%;
 }
 
+.pink { color: pink; }
+
 body {
     padding-top: 55px;
     display: flex;
@@ -94,6 +96,7 @@ a:hover {
 
 footer {
     border-bottom: var(--border-width) solid var(--accentBottom);
+
 }
 
 img {
