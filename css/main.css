@@ -96,11 +96,13 @@ a:hover {
 
 footer {
     border-bottom: var(--border-width) solid var(--accentBottom);
+    position: relative;
 }
 
 footer > .version {
     position: absolute;
-    bottom: 2px; right: 5px;
+    bottom: -13px;
+    right: 7px;
     font-size: 8px;
     color: white;
 }
