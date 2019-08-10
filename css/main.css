@@ -96,7 +96,13 @@ a:hover {
 
 footer {
     border-bottom: var(--border-width) solid var(--accentBottom);
+}
 
+footer > .version {
+    position: absolute;
+    bottom: 2px; right: 5px;
+    font-size: 8px;
+    color: white;
 }
 
 img {
