@@ -107,3 +107,25 @@ img {
     padding-left: 0;
     padding-right: 0;
 }
+
+@media (min-width:320px)	{
+	  /* smartphones, iPhone, portrait 480x320 phones */
+	  main { width: 300px; }
+}
+@media (min-width:481px)	{
+	  /* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */
+	  main { width: 460px; }
+    .intro > h1 { font-size: 10vh; }
+}
+@media (min-width:641px)	{
+	  /* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */
+	  main { width: 600px; }
+}
+@media (min-width:961px)	{
+	  /* tablet, landscape iPad, lo-res laptops ands desktops */
+	  main { width: 768px; }
+}
+@media (min-width:1025px) {
+	  /* big landscape tablets, laptops, and desktops */
+	  main { width: 768px; }
+}
