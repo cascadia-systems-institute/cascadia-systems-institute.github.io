@@ -116,7 +116,7 @@ img {
 
 @media (min-width:320px)	{
 	  /* smartphones, iPhone, portrait 480x320 phones */
-	  main { width: 420px; padding: 25px 0px; }
+	  main { width: 410px; padding: 25px 0px; }
     .intro > h1 { font-size: 4vh; }
     a.navbar-brand { margin-left: 5px; }
 }
