@@ -112,6 +112,7 @@ img {
 	  /* smartphones, iPhone, portrait 480x320 phones */
 	  main { width: 300px; }
     .intro > h1 { font-size: 4vh; }
+    a.navbar-brand { margin-left: 5px; }
 }
 @media (min-width:481px)	{
 	  /* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */
